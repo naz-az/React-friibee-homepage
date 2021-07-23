@@ -35,8 +35,8 @@ export default class Home extends React.Component{
                       <View style={{
                           width:"50%"
                       }}>
-                          <Image source={require('../images/friibee123.png')}
-                            style={{width:90,height:70}}/>
+                          <Image source={require('../images/friibee-side.png')}
+                            style={{width:200,height:70}}/>
                       </View>
                       <View style={{
                           width:"50%",
